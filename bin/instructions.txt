@@ -1,0 +1,13 @@
+Instructions
+============
+
+Windows: Run main.txt
+Linux (Run in terminal): ./main
+
+Here start configuration file name is the file name of the start configuration.
+goal configuration file name is the file name of the end configuration.
+output file name is the file name of the output actions.
+start.txt and goal.txt should exist.
+Each input file should be tab delimited grid with only numerical entries and '-'.
+The grids in input files should have the same number of rows and columns.
+if given 'y' to the quettion, misplaced heuristic will be used. Otherwise manhattan heuristic will be used.
